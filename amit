@@ -1,0 +1,3 @@
+<?php
+echo "hellow my name is amit";
+?>
